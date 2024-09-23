@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProjects\\Princes\\Princes\\Source\\Princes\\Princes.Build.cs",
+		"C:\\UnrealProjects\\Princes\\Princes\\Source\\Princes.Target.cs",
+		"C:\\UnrealProjects\\Princes\\Princes\\Source\\PrincesEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

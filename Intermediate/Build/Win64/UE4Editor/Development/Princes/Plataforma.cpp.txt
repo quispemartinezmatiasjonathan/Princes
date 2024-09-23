@@ -1,0 +1,3 @@
+C:\UnrealProjects\Princes\Princes\Intermediate\Build\Win64\UE4Editor\Development\Princes\Definitions.Princes.h
+C:\UnrealProjects\Princes\Princes\Source\Princes\Plataforma.h
+C:\UnrealProjects\Princes\Princes\Intermediate\Build\Win64\UE4Editor\Inc\Princes\Plataforma.generated.h

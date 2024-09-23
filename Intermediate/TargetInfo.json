@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Princes",
+			"Path": "C:\\UnrealProjects\\Princes\\Princes\\Source\\Princes.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PrincesEditor",
+			"Path": "C:\\UnrealProjects\\Princes\\Princes\\Source\\PrincesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
